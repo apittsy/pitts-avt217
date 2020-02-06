@@ -1,0 +1,35 @@
+body {
+  background-color: #bfc8e9;
+  color: white;
+  font-family: sans-serif;
+  font-size: 25px;
+  margin: 50px;
+}
+h1 {
+  text-align: left;
+}
+a {
+  color: 6b2b2b;
+  /* Remove anchor underline */
+  text-decoration: none;
+  letter-spacing: 20px;
+}
+a:hover {
+  color: pink
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: right
+}
+li {
+  margin: 20px 0 0 0;
+}
+#images {
+  margin: 0;
+  text-align: center;
+}
+#images img {
+  max-width: 100%;
+  margin: 25px 0;
+}
