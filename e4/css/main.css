@@ -1,6 +1,11 @@
 body {
   background-color: #ece4c2;
-  margin: 0 500px 0 25px;
+  /*margin: 0 500px 0 25px;*/
+}
+
+.container {
+  width: 800px;
+  margin: 50px auto;
 }
 
 h1 {
@@ -14,9 +19,18 @@ h3 {
   font-family: sans-serif;
 }
 
+p {
+  color: #27357a;
+}
+
+.intro {
+  color: #7a272f;
+}
+
 ul {
   list-style-type: none;
 }
 li {
   margin: 5px 0 0 0;
+  color:blue
 }

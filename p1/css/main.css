@@ -1,7 +1,11 @@
 body {
   background-color: #8092ee;
+  font-family: sans-serif;
 }
 
 a {
   text-decoration: none;
 }
+
+a:hover {
+  color: pink
