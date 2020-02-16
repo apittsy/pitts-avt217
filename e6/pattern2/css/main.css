@@ -7,26 +7,34 @@ body {
  margin: -50px -10%;
 }
 .block-1, .block-2, .block-3, .block-4 {
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
   float: right;
   opacity: 1;
-  /* border-radius: 50%; */
+  border-radius: 50%;
   border: 10px solid black;
 }
 .block-1 {
+  width: 100px;
+  height: 50px;
+  background: white;
+  border-radius: 50px / 100px;
   border-color: #606060; /* dark gray */
-  margin: 0px;
+  margin: 25px;
 }
 .block-2 {
   border-color: #b8b8b8; /* light gray */
-  margin: 0px;
+  margin: 25px;
 }
 .block-3 {
   border-color: #ae6262; /* light red */
-  margin: 0px;
+  margin: 25px;
 }
 .block-4 {
+  width: 100px;
+  height: 50px;
+  background: white;
+  border-radius: 100px / 50px;
   border-color: #963131; /* dark red */
-  margin: 0px;
+  margin: 25px;
 }

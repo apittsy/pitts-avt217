@@ -10,23 +10,23 @@ body {
   width: 100px;
   height: 100px;
   float: right;
-  opacity: .7;
-  /* border-radius: 50%; */
+  opacity: .9;
+  border-radius: 20%;
   border: 10px solid black;
 }
 .block-1 {
-  border-color: #7f4798; /* wine */
-  margin: -10px;
+  border-color: #EAC435; /* yellow */
+  margin: -30px;
 }
 .block-2 {
-  border-color: #79d2e5; /* cyan */
-  margin: 0px;
+  border-color: #345995; /* blue */
+  margin: -30px;
 }
 .block-3 {
-  border-color: #87a553; /* drab */
-  margin: -110px;
+  border-color: #03CEA4; /* green */
+  margin: -30px;
 }
 .block-4 {
-  border-color: black;
-  margin: 150px;
+  border-color: #CA1551; /* red */
+  margin: -30px;
 }

@@ -12,21 +12,37 @@ body {
   float: right;
   opacity: .7;
   /* border-radius: 50%; */
-  border: 10px solid black;
+  /* border: 10px solid black; */
 }
 .block-1 {
-  border-color: #7f4798; /* wine */
-  margin: -10px;
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid #CAA8F5;
+  margin: -20px;
 }
 .block-2 {
-  border-color: #79d2e5; /* cyan */
-  margin: 0px;
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 100px solid #592E83;
+  margin: -20px;
 }
 .block-3 {
-  border-color: #87a553; /* drab */
-  margin: -110px;
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid #9984D4;
+  margin: -20px;
 }
 .block-4 {
-  border-color: black;
-  margin: 150px;
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 100px solid #230C33;
+  margin: -20px;
 }
