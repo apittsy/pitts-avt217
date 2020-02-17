@@ -1,6 +1,7 @@
 body {
   background-color: #8092ee;
   font-family: sans-serif;
+  margin: 100px;
 }
 
 a {
@@ -8,4 +9,5 @@ a {
 }
 
 a:hover {
-  color: pink
+  color: pink;
+}
