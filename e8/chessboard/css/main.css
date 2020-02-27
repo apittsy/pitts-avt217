@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background-color: tan;
+}
+
+.board {
+  width: 800px;
+  margin: 100px auto;
+}
+
+.red, .white {
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+.red {
+  background-color: #7c5d96;
+}
+
+.white {
+  background-color: white;
+}
