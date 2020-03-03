@@ -1,39 +1,36 @@
 body {
+  margin: 0;
   background-color: tan;
 }
 
-.board1 {
-	width: 650px;
+.container {
+  width: 900px;
+  margin: 100px auto;
 }
-.board2 {
-	width: 650px;
-	height: 525px;
+
+.header, .post, .image, .postFooter {
+  background-color: #7c5d96;
+  float: left
 }
-.red1 {
-	width: 650px;
-	height: 100px;
-	background-color: #7c5d96;
-	border: 5px solid white;
+
+.header {
+  width: 900px;
+  height: 200px;
 }
-.red2 {
-	width: 500px;
-	height: 300px;
-	background-color: #7c5d96;
-	border: 5px solid white;
+
+.post {
+  width: 700px;
+  height: 400px;
+  margin: 100px 25px 25px 0;
 }
-.red3 {
-	width: 500px;
-	height: 50px;
-	background-color: #7c5d96;
-	border: 5px solid white;
+
+.image {
+  width: 175px;
+  height: 200px;
+  margin: 100px 0 0;
 }
-.red4 {
-	width: 150px;
-	height: 200px;
-	background-color: #7c5d96;
-	border: 5px solid white;
-}
-.white {
-	width: 600px;
-	height: 70px;
+
+.postFooter {
+  width: 700px;
+  height: 50px;
 }

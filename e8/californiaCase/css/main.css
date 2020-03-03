@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  background-color: tan;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 800px;
+  margin: 100px auto;
+}
+
+.column {
+  width: 200px;
+  float: left;
+}
+
+.smallColumn {
+  width: 100px;
+  float: left;
+}
+
+.oneXTwo, .oneXFour, .twoXFour, .twoXSix {
+  background-color: #7c5d96;
+  border: 5px solid white;
+  float: left;
+}
+
+.oneXTwo {
+  width: 100px;
+  height: 200px;
+}
+
+.oneXFour {
+  width: 100px;
+  height: 400px;
+}
+
+.twoXFour {
+  width: 200px;
+  height: 400px;
+}
+
+.twoXSix {
+  width: 200px;
+  height: 600px;
+}
