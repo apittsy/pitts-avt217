@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+}
+
+h1.google {
+  font-family: 'Noto Serif', serif;
+  font-size: 50px;
+}
+
+h3.google {
+  font-family: 'Noto Serif', serif;
+
+}
+
+p.google {
+  font-family: 'Noto Serif', serif;
+
+}
+
+.bigHeader {
+  width: 100%;
+
+  /* Delete before Final
+  height: 200px;
+  background-color: salmon;*/
+}
+
+.container {
+  width: 90vw;
+  margin: 100px auto;
+}
+
+.topic1 {
+}
+
+.topic2 {
+}
+
+.topic3 {
+}
+
+.topic4 {
+}
+
+.header1 {
+  width: 50%;
+  margin-bottom: 50px;
+
+  /* Delete before Final */
+  height: 50px;
+  background-color: tan;
+}
+
+.body1a {
+  width: 33%;
+  margin-bottom: 50px;
+
+  /* Delete before Final */
+  height: 150px;
+  background-color: tan;
+}
+
+.body1b {
+  width: 33%;
+  margin-bottom: 100px;
+
+  /* Delete before Final */
+  height: 150px;
+  background-color: tan;
+}
+
+.header2 {
+  width: 50%;
+  margin-bottom: 50px;
+
+  /* Delete before Final */
+  height: 50px;
+  background-color: tan;
+}
+
+.body2 {
+  width: 33%;
+  margin-bottom: 100px;
+
+  /* Delete before Final */
+  height: 150px;
+  background-color: tan;
+}
+
+.header3 {
+  width: 50%;
+  margin-bottom: 50px;
+
+  /* Delete before Final */
+  height: 50px;
+  background-color: tan;
+}
+
+.body3 {
+  width: 33%;
+  margin-bottom: 100px;
+
+  /* Delete before Final */
+  height: 150px;
+  background-color: tan;
+}
+
+.header4 {
+  width: 50%;
+  margin-bottom: 50px;
+
+  /* Delete before Final */
+  height: 50px;
+  background-color: tan;
+}
+
+.body4a {
+  width: 33%;
+  margin-bottom: 50px;
+
+  /* Delete before Final */
+  height: 150px;
+  background-color: tan;
+}
+
+.body4b {
+  width: 33%;
+  margin-bottom: 50px;
+
+  /* Delete before Final */
+  height: 150px;
+  background-color: tan;
+}
+
+.body4c {
+  width: 33%;
+  margin-bottom: 100px;
+
+  /* Delete before Final */
+  height: 150px;
+  background-color: tan;
+}
+
+.footer {
+  width: 100%;
+
+  /* Delete before Final */
+  height: 200px;
+  background-color: salmon;
+}
