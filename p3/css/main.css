@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+img {
+  
+}
+
 h1.google {
   font-family: 'Noto Serif', serif;
   font-size: 50px;
@@ -19,6 +23,7 @@ p.google {
 
 .bigHeader {
   width: 100%;
+
 
   /* Delete before Final
   height: 200px;
